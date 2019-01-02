@@ -1,0 +1,13 @@
+.animated:hover {
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+}
+
+body{
+    font-family: 'Staatliches', cursive;
+}
+
+nav{
+    background: transparent;
+}
